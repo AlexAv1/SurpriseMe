@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (5.0.2)
+  - AlamofireNetworkActivityLogger (3.0.0):
+    - Alamofire (~> 5.0.0-rc.2)
+  - CountryPickerView (3.1.2)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - SwiftPhoneNumberFormatter (1.5)
+
+DEPENDENCIES:
+  - AlamofireNetworkActivityLogger (~> 3.0)
+  - CountryPickerView
+  - Moya (~> 14.0)
+  - SwiftPhoneNumberFormatter
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireNetworkActivityLogger
+    - CountryPickerView
+    - Moya
+    - SwiftPhoneNumberFormatter
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  AlamofireNetworkActivityLogger: 94e8a7d454a4a9800cef1d0c1d3699754493684b
+  CountryPickerView: 08ff5f391143aa79e2ae21b0eaa5c15395a80d22
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  SwiftPhoneNumberFormatter: 0cc91f4daa06dd606a9defb21048a75c36a771a2
+
+PODFILE CHECKSUM: 0705cdf644e5774606a6e26a9abb38fd93c17da6
+
+COCOAPODS: 1.9.1
